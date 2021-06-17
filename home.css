@@ -183,3 +183,6 @@ li:active {
 	transition: 0.4s;
   }
   */
+  .adjust{
+    margin:0 -42px;
+  }
